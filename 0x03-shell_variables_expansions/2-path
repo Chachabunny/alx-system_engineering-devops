@@ -1,2 +1,2 @@
 #!/bin/bash
-source .bash_profile
+export PATH=$PATH:/action
